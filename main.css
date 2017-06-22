@@ -21,15 +21,15 @@ body{
 .title{
     margin-left: auto;
     margin-right:auto;
-    height: 28.43rem;
-    width: 35.57rem;
+    height: 28rem;
+    width: 35rem;
     margin-top: 2em;
     padding-bottom: 2em;
 }
 
 .people{
-    height: 30rem;
-    width: 30rem;
+    height: 25rem;
+    width: 25rem;
     margin-left: auto;
     margin-right: auto;
 }
@@ -44,8 +44,8 @@ body{
 }
 
 .places{
-    height: 30rem;
-    width: 30rem;
+    height: 25rem;
+    width: 25rem;
     margin-left: auto;
     margin-right: auto;
 }
@@ -72,4 +72,5 @@ body{
     display: inline-block;
     height: 2em;
     width: 2em;
+    
 }
