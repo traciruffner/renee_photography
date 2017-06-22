@@ -1,0 +1,39 @@
+body{
+  background-image: url("../images/ocean%20background.jpg");
+  height: auto;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;    
+}
+
+.container{
+    background-color: aliceblue;
+    margin-top: 3em;
+    margin-bottom: 3em;
+    width: 80%;
+    height: auto;    
+}
+
+.profile{
+    height: 200px;
+    width: 200px;
+    margin-top: 3em;
+    border: 3px solid navy;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.open{
+    text-align: center;
+}
+
+p{
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    font-family: sans-serif;
+    font-size: 1.5em;
+}
+
+
