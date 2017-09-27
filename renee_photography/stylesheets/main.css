@@ -1,0 +1,109 @@
+body{
+    height: auto;
+    width: 100%;
+    background-image: url("../images/wallpaper.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    box-sizing: border-box;
+}
+
+a, a:hover, a:visited{
+    text-decoration: none;
+    color: white;
+}
+
+.btn{
+    background-color: #0a560e;
+    text-decoration: none;
+    color: white;
+}
+
+.header{
+    height: 10em;
+    width: 100%;
+}
+
+
+.title{
+    margin-left: auto;
+    margin-right:auto;
+    height: 28rem;
+    width: 35rem;
+    margin-top: 2em;
+    padding-bottom: 2em;
+}
+
+.wed{
+    height: 25rem;
+    width: 25rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sunflower{
+    height: 25rem;
+    width: 25rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.people{
+    height: 25rem;
+    width: 25rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.things{
+    height: 28rem;
+    width: 35rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    padding-bottom: 2.5em;
+}
+
+.places{
+    height: 25rem;
+    width: 25rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pic{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 2px solid #124c10;
+    background-color: #996d09;
+}
+
+.pic:hover{
+    background-color: #86cc86;
+}
+
+.row{
+   margin-left: 2em;
+   margin-top: 2em;
+   margin-bottom: 2em;
+}
+
+.share{
+    display: inline-block;
+    height: 2em;
+    width: 2em;
+}
+
+@media only screen and (max-width: 700px){
+    .wed, .things{
+        display: none;
+    }
+    
+    .container{
+        margin-left: -2em;
+    }
+    
+    }

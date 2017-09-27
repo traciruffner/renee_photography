@@ -1,0 +1,23 @@
+body{
+    background-color: navy;
+}
+
+h2{
+    padding-bottom: 1em;
+    text-align: center;
+    color: white;
+}
+
+.col-md-8{
+    padding-bottom: 10em;
+}
+
+.footer{
+    width: 100%;
+}
+
+p{
+    color: white;
+    font-weight: 400;
+    margin-left: 0;
+}

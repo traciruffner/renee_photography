@@ -1,0 +1,76 @@
+body{
+    height: auto;
+    width: 100%;
+    background-image: url("../images/wallpaper.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn{
+    background-color: #996d09;
+    text-decoration: none;
+    color: white;
+}
+
+.header{
+    height: 10em;
+    width: 100%;
+}
+
+
+.title{
+    margin-left: auto;
+    margin-right:auto;
+    height: 28rem;
+    width: 35rem;
+    margin-top: 2em;
+    padding-bottom: 2em;
+}
+
+.people{
+    height: 25rem;
+    width: 25rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.things{
+    height: 25rem;
+    width: 40rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    padding-bottom: 2.5em;
+}
+
+.places{
+    height: 25rem;
+    width: 25rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pic{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 2px solid #124c10;
+    background-color: #996d09;
+}
+
+.pic:hover{
+    background-color: #86cc86;
+}
+
+.row{
+   margin-left: 2em;
+   margin-top: 2em;
+   margin-bottom: 2em;
+}
+
+.share{
+    display: inline-block;
+    height: 2em;
+    width: 2em;
+    
+}
